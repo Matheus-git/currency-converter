@@ -5,7 +5,7 @@ A **React** template powered by **Vite**, designed with a **scalable and maintai
 ## Features
 
 - **Vite** – Fast and optimized development environment  
-- **React 18+** – Modern React with functional components  
+- **React 19+** – Modern React with functional components  
 - **Tailwind CSS** – Utility-first CSS framework for rapid UI development  
 - **CSS Modules** – Scoped styling for better maintainability  
 - **Scalable Project Structure** – Inspired by Bulletproof React  
