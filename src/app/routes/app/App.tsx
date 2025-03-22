@@ -1,7 +1,7 @@
 import { ContentLayout } from "@/components/layouts";
 
 const App = () => {
-  return <ContentLayout title="Users">Oi</ContentLayout>;
+  return <ContentLayout>Oi</ContentLayout>;
 };
 
 export default App;
